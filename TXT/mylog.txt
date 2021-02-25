@@ -1,4 +1,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 10 L03 GitHub related
+ZCZC W00 10 L01 Reading up announcements, registering on google form, and joining discord server
+ZCZC W00 100 L02 February 22nd Zoom class
+ZCZC W00 30 L06 Reading up week 00 slide
+ZCZC W00 10 L03 Setting up GitHub repository
+ZCZC W00 15 L05 Looking up how to setup GitHub page
+ZCZC W00 5 L03 Setting up GitHub page
+ZCZC W00 30 L22 Watching Youtube videos on how to install Linux
+ZCZC W00 60 L99 Going out to an electronic shop to buy a flash drive(as it was needed to install Linux on my laptop)
+ZCZC W00 90 L99 Installing Linux on my laptop
