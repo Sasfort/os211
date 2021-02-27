@@ -2,7 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 20 L01 Reading up announcements, registering on google form, and joining discord server
-ZCZC W00 100 L02 February 22nd Zoom class
+ZCZC W00 100 L02 February 23rd Zoom class
 ZCZC W00 30 L06 Reading up week 00 slide
 ZCZC W00 10 L03 Setting up GitHub repository
 ZCZC W00 15 L05 Looking up how to setup GitHub page
