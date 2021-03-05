@@ -13,3 +13,11 @@ ZCZC W00 90 L99 Installing Linux on my laptop
 ZCZC W00 120 L26 Watching a movie with my friends
 ZCZC W00 120 L23 Discussing technology and campus politics with my friends through discord
 ZCZC W00 120 L22 Watching videos on youtube
+ZCZC W01 120 L11 Doing week 1 assignment #1
+ZCZC W01 60 L12 Doing week 1 assignment #2
+ZCZC W01 120 L13 Doing week 1 assignment #3
+ZCZC W01 120 L14 Doing week 1 assignment #4
+ZCZC W01 60 L15 Doing week 1 assignment #5
+ZCZC W01 60 L16 Doing week 1 assignment #6
+ZCZC W01 120 L17 Doing week 1 assignment #7
+ZCZC W01 60 L18 Doing week 1 assignment #8
