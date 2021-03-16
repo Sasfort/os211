@@ -24,3 +24,10 @@ ZCZC W01 60 L18 Doing week 1 assignment #8
 ZCZC W01 5 L03 Github related
 ZCZC W01 30 L03 Fixing git commit
 ZCZC W01 15 L03 Fixing git commit again
+ZCZC W02 80 L02 Weekly Zoom Meeting
+ZCZC W02 240 L10 Doing week 2 assignment
+ZCZC W02 100 L23 Discussing about projects and internships with my friends on discord
+ZCZC W02 180 L22 Watching Youtube videos revolving around cyber security
+ZCZC W02 30 L00 Pop Quiz
+ZCZC W02 30 L09 Asking asdos questions about GitHub
+ZCZC W02 60 L03 Tinkering GitHub
