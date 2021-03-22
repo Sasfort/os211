@@ -31,3 +31,9 @@ ZCZC W02 180 L22 Watching Youtube videos revolving around cyber security
 ZCZC W02 30 L00 Pop Quiz
 ZCZC W02 30 L09 Asking asdos questions about GitHub
 ZCZC W02 60 L03 Tinkering GitHub
+ZCZC W03 100 L02 Weekly Zoom Meeting
+ZCZC W03 360 L10 Doing week 3 assignment
+ZCZC W03 120 L23 Discussing this week's material on Discord
+ZCZC W03 40 L08 Trying tarball encryption
+ZCZC W03 50 L05 GSGS about this week's material
+ZCZC W03 50 L22 Watching YouTube videos about this week's material
