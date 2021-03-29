@@ -18,7 +18,7 @@ for II in W?? ; do
 				popd
 
 				rm -f $HOME/RESULT/fakeDODOL
-				for II in $HOME/RESULT/myW*.tar.bz2.asc $HOME/RESULT/fakeDODOL ; do
+				for II in $HOME/RESULT/myW*.tar.bz2.asc ; do
 					   echo "Check and move $II..."
 					      [ -f $II ] && mv -f $II .
 				      done
@@ -39,3 +39,6 @@ for II in W?? ; do
 				      gpg --verify $SHA.asc $SHA
 
 				      exit 0
+
+
+
