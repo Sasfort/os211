@@ -41,5 +41,11 @@ ZCZC W04 100 L02 Weekly Zoom Meeting
 ZCZC W04 360 L14 Doing week 4 assignment
 ZCZC W04 60 L04 Tinkering GitHub page
 ZCZC W04 100 L23 Discussing things with friends
-ZCZC W04 30 L02 Pop Quiz
+ZCZC W04 30 L00 Pop Quiz
 ZCZC W04 70 L26 Relaxing with movie
+ZCZC W05 360 L15 Doing week 5 assignment
+ZCZC W05 100 L02 Weekly Zoom Meeting
+ZCZC W05 80 L00 Doing Pop Quiz
+ZCZC W05 60 L23 Discussing this week's material with friends on Discord
+ZCZC W05 60 L05 GSGS about this week's material
+ZCZC W05 60 L08 Trying file transfers between local and server
