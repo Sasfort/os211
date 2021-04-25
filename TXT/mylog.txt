@@ -49,3 +49,8 @@ ZCZC W05 80 L00 Doing Pop Quiz
 ZCZC W05 60 L23 Discussing this week's material with friends on Discord
 ZCZC W05 60 L05 GSGS about this week's material
 ZCZC W05 60 L08 Trying file transfers between local and server
+ZCZC W06 240 L16 Doing week 6 assignment
+ZCZC W06 180 L24 Udacity & Studying
+ZCZC W06 120 L26 Watching The Falcon and The Winter Soldier TV Series
+ZCZC W06 120 L22 Watching YouTube documentaries and listening to music
+ZCZC W06 60 L01 SCELE related
