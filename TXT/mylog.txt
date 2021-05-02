@@ -54,3 +54,9 @@ ZCZC W06 180 L24 Udacity & Studying
 ZCZC W06 120 L26 Watching The Falcon and The Winter Soldier TV Series
 ZCZC W06 120 L22 Watching YouTube documentaries and listening to music
 ZCZC W06 60 L01 SCELE related
+ZCZC W07 360 L17 Doing week 7 assignment
+ZCZC W07 30 L01 Pop Quiz Scele
+ZCZC W07 30 L00 Pop Quiz Email
+ZCZC W07 100 L02 Weekly Zoom Meeting
+ZCZC W07 100 L22 Watching videos on YouTube
+ZCZC W07 100 L23 Chatting on Discord with my friends
