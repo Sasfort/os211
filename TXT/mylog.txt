@@ -60,3 +60,7 @@ ZCZC W07 30 L00 Pop Quiz Email
 ZCZC W07 100 L02 Weekly Zoom Meeting
 ZCZC W07 100 L22 Watching videos on YouTube
 ZCZC W07 100 L23 Chatting on Discord with my friends
+ZCZC W08 560 L18 Doing week 8 assignment
+ZCZC W08 100 L02 Weekly Zoom Meeting
+ZCZC W08 30 L01 Pop Quiz
+ZCZC W08 30 L00 Pop Quiz Email
