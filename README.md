@@ -15,3 +15,4 @@ Syabib Ash-shiddiqi's Operating System Github Page
 * <b>[W05](https://sasfort.github.io/os211/W05/)</b><br>
 * <b>[W06](https://sasfort.github.io/os211/W06/)</b><br>
 * <b>[W07](https://sasfort.github.io/os211/W07/)</b><br>
+* <b>[W08](https://sasfort.github.io/os211/W08/)</b><br>
